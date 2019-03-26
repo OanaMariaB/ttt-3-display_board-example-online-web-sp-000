@@ -1,4 +1,4 @@
-def display_board
+earndef display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
